@@ -10,3 +10,4 @@ cd nama-proyek
  2.Install Dependensi:
 Pastikan Anda memiliki Node.js dan npm (Node Package Manager) terinstal.
 npm install
+melakukan pull dan push
