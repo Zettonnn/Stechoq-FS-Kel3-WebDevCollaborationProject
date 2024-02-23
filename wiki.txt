@@ -10,12 +10,8 @@ cd nama-proyek
  2.Install Dependensi:
 Pastikan Anda memiliki Node.js dan npm (Node Package Manager) terinstal.
 npm install
-<<<<<<< HEAD
 
 3. lorem ipsum 
   coba coba saja 
 4. lorem ipsum 
     coba coba lagii
-=======
-melakukan pull dan push
->>>>>>> 1220aa42ffab26a8f13325082bdac1cd2ad123fc
