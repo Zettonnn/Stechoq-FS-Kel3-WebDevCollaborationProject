@@ -1,0 +1,17 @@
+Wiki Proyek XYZ
+Selamat datang di Wiki Proyek XYZ! Dokumentasi ini memberikan panduan lengkap tentang cara menjalankan proyek, dependensi yang diperlukan, dan instruksi penggunaan. Pastikan untuk mengikuti langkah-langkah ini dengan hati-hati.
+
+Menjalankan Proyek
+Clone Repository:
+
+git clone <url-repo>
+cd nama-proyek
+
+ 2.Install Dependensi:
+Pastikan Anda memiliki Node.js dan npm (Node Package Manager) terinstal.
+npm install
+
+3. lorem ipsum 
+  coba coba saja 
+4. lorem ipsum 
+    coba coba lagii
