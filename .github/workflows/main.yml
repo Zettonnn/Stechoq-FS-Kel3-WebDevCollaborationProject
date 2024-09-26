@@ -1,0 +1,26 @@
+name: Push Code
+
+on:
+  push:
+    branches:
+      - fuad
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build code
+        run: npm run build
+
+      - name: Push code
+        uses: ad-m/github-push-action@v0.5.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
+          branch: fuad
